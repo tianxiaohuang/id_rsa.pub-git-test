@@ -116,3 +116,18 @@ Hi tianxiao! You've successfully authenticated, but GitHub does not provide shel
 
 ---
 ---
+
+### step 2 - Github and Markdown
+
+1. 首先我们要在设置中给GitHub库选择一个主题
+
+![](https://upload-images.jianshu.io/upload_images/1244049-b886db78a1bb1947.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+
+![](https://upload-images.jianshu.io/upload_images/1244049-877a96705af7d669.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+
+2. 同步库
+***此时我们看到库里面多了一个.yml文件***
+
+3. 在线上创建README文件，这是markdown文件，再把这些修改pull到本地
+
+4. **在设置中进入库的在线地址就能看到渲染好的页面了。** 👌 
