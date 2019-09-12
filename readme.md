@@ -5,7 +5,7 @@
 
 ---------------------
 
-## **LETSGO**
+## **LETS GO**
 
 ### step 1 - How to use Git and Github
 
@@ -16,6 +16,8 @@
 ***在Linux上安装Git***
 
 `$ sudo apt-get install git`
+
+---
 
 ***创建版本库***
 
@@ -31,7 +33,7 @@
 
 `ls -ah` **看隐藏**
 
-----------
+---
 
 ***添加文件到仓库***
 
@@ -43,6 +45,10 @@
 
 4.`git diff`可以查看修改内容
 
+![space](https://www.liaoxuefeng.com/files/attachments/919020037470528/0)
+
+---
+
 ***关于时光机穿梭***
 
 1.使用命令`git reset --hard commit_id`在各个时光穿梭
@@ -50,3 +56,4 @@
 2.穿梭前，用`git log`可以查看提交历史，以便确定要回退到哪个版本   `--pretty=oneline`**让你不再眼花缭乱**
 
 3.要重返未来，用`git reflog`查看命令历史，以便确定要回到未来的哪个版本
+
