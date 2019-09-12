@@ -9,6 +9,8 @@
 
 ### step 1 - How to use Git and Github
 
+---
+
 #### Git
 
 ---
@@ -71,3 +73,27 @@
 
 #### Github
 
+[来来来先注册](https://github.com/)
+
+---
+
+1. **配置验证信息**`$ ssh-keygen -t rsa -C "youremail@example.com"`
+
+***（默认的一路回车就行。成功的话会在~/下生成.ssh文件夹，进去，打开 id_rsa.pub，复制里面的 key）***
+
+2. 
+![](http://www.runoob.com/wp-content/uploads/2015/03/48840BF0-992F-4CCC-A388-15CB74819D88.jpg)
+
+![](http://www.runoob.com/wp-content/uploads/2015/03/106AD534-A38A-47F3-88A3-B7BE3F2FEEF1.jpg)
+
+![](http://www.runoob.com/wp-content/uploads/2015/03/EC8F8872-091A-4CAB-90F2-616F34F350A9.jpg)
+
+
+`$ ssh -T git@github.com`验证是否成功
+Hi tianxiao! You've successfully authenticated, but GitHub does not provide shell access.
+
+![](http://www.runoob.com/wp-content/uploads/2015/03/github1.jpg)
+
+之后在在Repository name 填入 xxx(远程仓库名) ，其他保持默认设置，点击"Create repository"按钮，就成功地创建了一个新的Git仓库
+
+3. 
