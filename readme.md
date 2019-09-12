@@ -121,9 +121,9 @@ Hi tianxiao! You've successfully authenticated, but GitHub does not provide shel
 
 1. 首先我们要在设置中给GitHub库选择一个主题
 
-![](https://upload-images.jianshu.io/upload_images/1244049-b886db78a1bb1947.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![](https://upload-images.jianshu.io/upload_images/1244049-b886db78a1bb1947.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
-![](https://upload-images.jianshu.io/upload_images/1244049-877a96705af7d669.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![](https://upload-images.jianshu.io/upload_images/1244049-877a96705af7d669.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
 2. 同步库
 ***此时我们看到库里面多了一个.yml文件***
