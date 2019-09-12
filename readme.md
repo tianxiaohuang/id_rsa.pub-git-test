@@ -13,6 +13,8 @@
 
 `$ sudo apt-get install git`
 
+***创建版本库***
+
 `$ mkdir learngit`
 
 `$ cd learngit`
