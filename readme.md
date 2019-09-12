@@ -5,10 +5,14 @@
 
 ---------------------
 
-## step 1 - How to use git and github
+## **LETSGO**
 
-### **LETSGO**
+### step 1 - How to use Git and Github
+
+#### Git
+
 ---
+
 ***在Linux上安装Git***
 
 `$ sudo apt-get install git`
@@ -23,8 +27,16 @@
 
 `/learngit`
 
-`$ git init` **变成git管理的仓库**
+`$ git init` **变成Git管理的仓库**
 
 `ls -ah` **看隐藏**
+
+----------
+
+***添加文件到仓库***
+
+1.使用命令`git add <file>`
+
+2.使用命令`git commit -m <message>`
 
 
