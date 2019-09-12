@@ -10,11 +10,17 @@
 ### **Welcome**
 ---
 ***在Linux上安装Git***
+
 `$ sudo apt-get install git`
+
 `$ mkdir learngit`
+
 `$ cd learngit`
+
 `$ pwd`
+
 `/learngit`
+
 ####
 
 #####
