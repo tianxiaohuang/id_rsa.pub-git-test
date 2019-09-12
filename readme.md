@@ -96,4 +96,23 @@ Hi tianxiao! You've successfully authenticated, but GitHub does not provide shel
 
 之后在在Repository name 填入 xxx(远程仓库名) ，其他保持默认设置，点击"Create repository"按钮，就成功地创建了一个新的Git仓库
 
-3. 
+3. 原git处理的文件提交到Github
+`$ git remote add origin git@github.com:tianxiaohuang/tianxiaohuang_thu.git`
+`$ git push -u origin master`
+
+4. 接下来我们返回 Github 创建的仓库，就可以看到文件已上传到 Github上
+
+5. `git remote`看有哪些仓库，加上 -v 参数，你还可以看到每个别名的实际链接地址
+
+***从远程仓库下载新分支与数据：*** ❤
+`git fetch`
+`git merge`
+
+***推送到远程仓库*** ❤
+`git push`
+
+***删除远程仓库*** ❤
+`git remote rm`
+
+---
+---
