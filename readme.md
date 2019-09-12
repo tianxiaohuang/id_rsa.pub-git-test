@@ -131,3 +131,10 @@ Hi tianxiao! You've successfully authenticated, but GitHub does not provide shel
 3. 在线上创建README文件，这是markdown文件，再把这些修改pull到本地
 
 4. **在设置中进入库的在线地址就能看到渲染好的页面了。** 👌 
+
+[参考资料点这里](https://www.jianshu.com/p/eb9af1279499) ✔ 
+
+---
+***未完待续...***
+
+
