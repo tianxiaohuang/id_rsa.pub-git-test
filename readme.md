@@ -7,7 +7,7 @@
 
 ## step 1 - How to use git and github
 
-### **Welcome**
+### **LETSGO**
 ---
 ***在Linux上安装Git***
 
@@ -23,8 +23,8 @@
 
 `/learngit`
 
-####
+`$ git init` **变成git管理的仓库**
 
-#####
+`ls -ah` **看隐藏**
 
-######
+
